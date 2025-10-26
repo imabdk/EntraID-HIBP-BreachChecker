@@ -2,7 +2,7 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 Automated PowerShell tool for checking Entra ID (Azure AD) group members against the Have I Been Pwned database. Generate professional HTML and PDF reports for security audits, compliance, and executive briefings.
 
@@ -90,9 +90,8 @@ This script is provided "as-is" without warranties. Test before using in product
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+MIT License
 
 ---
 
 **Remember**: Everything can be done automatically, as long as you configure it manually! 🚀
-
