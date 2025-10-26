@@ -16,6 +16,11 @@ Automated PowerShell tool for checking Entra ID (Azure AD) group members against
 - 🎯 **Nested group support** with flexible selection by name or Object ID
 - 🔒 **Secure** - no data stored, read-only permissions, OAuth authentication
 
+### 📸 Sample Report
+
+![HTML Report Example](images/report-example.png)
+*Professional HTML report with executive summary and detailed breach information*
+
 ## 📋 Prerequisites
 
 1. [Have I Been Pwned API Key](https://haveibeenpwned.com/API/Key)
@@ -48,9 +53,6 @@ git clone https://github.com/yourusername/EntraID-BreachChecker.git
 
 # Higher rate limit (Pwned 3 tier - 100 req/min)
 .\Check-GroupMembersHaveIBeenPwned.ps1 -GroupName "IT Department" -ApiKey "your-key" -RateLimitPerMinute '100'
-
-# Multiple groups with nested members
-.\Check-GroupMembersHaveIBeenPwned.ps1 -GroupName "All Employees" -ApiKey "your-key" -ExpandNestedGroups
 ```
 
 ## 📊 Rate Limiting
@@ -92,5 +94,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Remember**: Everything can be done automatically! 🚀
+**Remember**: Everything can be done automatically, as long as you configure it manually! 🚀
 
