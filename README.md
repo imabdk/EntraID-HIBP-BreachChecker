@@ -84,7 +84,7 @@ This script is provided "as-is" without warranties. Test before using in product
 
 **Martin Bengtsson** - [imab.dk](https://www.imab.dk)
 
-📝 Blog: [Automated Have I Been Pwned Breach Checks for Entra ID Groups](https://www.imab.dk/powershell-script-automated-have-i-been-pwned-breach-checks-for-entra-id-groups/)
+📝 Blog: [Automating 'Have I Been Pwned' Breach Checks for Entra ID Groups](https://www.imab.dk/powershell-script-automated-have-i-been-pwned-breach-checks-for-entra-id-groups/)
 
 ## 📄 License
 
